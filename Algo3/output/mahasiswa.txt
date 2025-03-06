@@ -1,0 +1,24 @@
+Nama : Fariz
+Umur : 0
+IPK : 0.000000
+Nama : 
+Umur : 0
+IPK : 0.000000
+Nama : Fariz
+Umur : 19
+IPK : 3.950000
+Nama : Taufik
+Umur : 17
+IPK : 3.860000
+Nama : Fariz
+Umur : 19
+IPK : 3.760000
+Nama : Taufik
+Umur : 19
+IPK : 4.000000
+Nama : Fariz
+Umur : 19
+IPK : 3.760000
+Nama : Taufik
+Umur : 21
+IPK : 4.000000
